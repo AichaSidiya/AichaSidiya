@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-:raising_hand: I'm a sophomore computer science, working on making programing fun to learn.
+:raising_hand: I'm a junior computer science, working on developping my data structure skills, wishing to work on artificial intelligence and machine learning projects. Enjoys data visulasation and manipulation.  
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - 🎓 College student
 
