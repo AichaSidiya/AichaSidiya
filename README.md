@@ -23,9 +23,9 @@
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/AichaSidiya/github-readme-activity-graph"><img alt="Aicha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AichaSidiya&theme=dracula" width=850/></a>
-</p>
+</p> -->
 
 
 ## TOP PROGRAMING LANGUAGES
