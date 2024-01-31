@@ -21,7 +21,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AichaSidiya&&show_icons=true&count_private=true&theme=dracula" width=400/> <img alt="Aich's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AichaSidiya&theme=dracula" width=400/>
 
-
+</p>
 ## TOP PROGRAMING LANGUAGES
 <div align=center>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AichaSidiya&theme=dracula" > </a>
