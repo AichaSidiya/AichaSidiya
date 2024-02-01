@@ -24,7 +24,7 @@
 
 ## TOP PROGRAMING LANGUAGES
 <p align=center>
-<img  href="https://github-readme-stats.vercel.app/api/top-langs/?username=AichaSidiya&theme=dracula" />
+<img  href="https://github-readme-stats.vercel.app/api/top-langs/?username=AichaSidiya&theme=dracula" width="400"/>
 </p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
