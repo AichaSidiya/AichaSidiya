@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-:raising_hand: I'm a computer scientist skilled in Power BI specialising in data science and data analytics, looking to hone my skills in artificial intelligence and machine learning projects. Enjoys data visulasation and manipulation.  Eager to improve my web and app developemnt skills through collaborating to open source projects.
+:raising_hand: I'm a computer scientist skilled in Power BI specialized in data science and data analytics, looking to hone my skills in artificial intelligence and machine learning projects. Enjoys data visulasation and manipulation.  Eager to improve my web and app developemnt skills through collaborating to open source projects.
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - 🎓 Master in Data Science UTP student
  
