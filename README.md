@@ -2,19 +2,17 @@
 
 ## ABOUT ME
 
-:raising_hand: I'm a senior computer science, working on developping my data structure skills, wishing to work on artificial intelligence and machine learning projects. Enjoys data visulasation and manipulation.  
+:raising_hand: I'm a computer scientist specialising in data science and data analytics, looking to hone my skills in artificial intelligence and machine learning projects. Enjoys data visulasation and manipulation.  Eager to improve my web and app developemnt skills through collaborating to open source projects.
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-- 🎓 College student
-
-- 🌱 Studying Computer Science
+- 🎓 Master in Data Science UTP student
  
 - 🤔 Looking for open source to contribute
 
 - 📫 How to reach me aichasidiya@gmail.com
 
-- 🧪Interested in bioinformatics
+- 🧪Interested in bioinformatics and data analytics
 
-- 📈 Looking to improve my skills
+- 📈 Looking to improve my web and app developemnt skills
 
 
 ## MY GITHUB STAT
